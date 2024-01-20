@@ -1,0 +1,21 @@
+h1 {
+    color: purple;
+    font-size: 50px;
+    text-align: center;
+    border: 3px dotted red;
+    padding: 8px 16px;
+    margin: 0px 300px 20px;
+}
+
+.link {
+    font-size: 30px;
+    text-align: center;
+    display: block;
+}
+
+.links {
+    border: 5px solid green;
+    padding: 8px 16px;
+    margin: 0px 400px;
+
+}
